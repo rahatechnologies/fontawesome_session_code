@@ -1,0 +1,13 @@
+/* .fa-solid{
+    color: red;
+} */
+
+.fa-solid:hover {
+    color: green;
+    font-size: xx-large;
+}
+
+.fa-cart-shopping{
+    background: yellow;
+    font-size: xx-large;
+}
